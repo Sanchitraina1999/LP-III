@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.12.4)  29 APR 2022 01:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.12.4)  29 APR 2022 09:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,32 +868,32 @@ Package caption Info: End \AtBeginDocument code.
 <images//pict.png, id=7, 201.00093pt x 201.00093pt>
 File: images//pict.png Graphic file (type png)
 <use images//pict.png>
-Package pdftex.def Info: images//pict.png  used on input line 73.
+Package pdftex.def Info: images//pict.png  used on input line 72.
 (pdftex.def)             Requested size: 120.60147pt x 120.60147pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//pict.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--97
+Underfull \hbox (badness 10000) in paragraph at lines 87--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
@@ -901,181 +901,181 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.124 \newpage
+l.123 \newpage
                [1]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--134
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--139
+Underfull \hbox (badness 10000) in paragraph at lines 134--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--146
+Underfull \hbox (badness 10000) in paragraph at lines 139--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--156
+Underfull \hbox (badness 10000) in paragraph at lines 146--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--164
+Underfull \hbox (badness 10000) in paragraph at lines 156--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--173
+Underfull \hbox (badness 10000) in paragraph at lines 164--172
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 182--191
+Underfull \hbox (badness 10000) in paragraph at lines 181--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--200
+Underfull \hbox (badness 10000) in paragraph at lines 191--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--212
+Underfull \hbox (badness 10000) in paragraph at lines 200--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--220
+Underfull \hbox (badness 10000) in paragraph at lines 212--219
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--228
+Underfull \hbox (badness 10000) in paragraph at lines 220--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--234
+Underfull \hbox (badness 10000) in paragraph at lines 228--233
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 246--261
+Underfull \hbox (badness 10000) in paragraph at lines 245--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--269
+Underfull \hbox (badness 10000) in paragraph at lines 261--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--278
+Underfull \hbox (badness 10000) in paragraph at lines 269--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--285
+Underfull \hbox (badness 10000) in paragraph at lines 278--284
 
  []
 
 [4]
-Overfull \hbox (80.0303pt too wide) in paragraph at lines 339--345
+Overfull \hbox (80.0303pt too wide) in paragraph at lines 338--344
 \T1/cmr/m/n/12 XSS vul-ner-a-bil-i-ties may be in-tro-duced by your de-vel-op-e
 rs or through ex-ter-nal li-braries/modules/software.
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 350--351
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 
  []
 
 <images//sql_before.png, id=53, 1856.9375pt x 1058.95625pt>
 File: images//sql_before.png Graphic file (type png)
 <use images//sql_before.png>
-Package pdftex.def Info: images//sql_before.png  used on input line 357.
+Package pdftex.def Info: images//sql_before.png  used on input line 356.
 (pdftex.def)             Requested size: 464.23325pt x 264.73842pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 358.
+(caption)                particular \caption on input line 357.
 See the caption package documentation for explanation.
 
 <images//sql_after.png, id=54, 1856.9375pt x 1058.95625pt>
 File: images//sql_after.png Graphic file (type png)
 <use images//sql_after.png>
-Package pdftex.def Info: images//sql_after.png  used on input line 365.
+Package pdftex.def Info: images//sql_after.png  used on input line 364.
 (pdftex.def)             Requested size: 464.23325pt x 264.73842pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 366.
+(caption)                particular \caption on input line 365.
 See the caption package documentation for explanation.
 
 <images//sql_db.png, id=55, 1883.035pt x 1085.05376pt>
 File: images//sql_db.png Graphic file (type png)
 <use images//sql_db.png>
-Package pdftex.def Info: images//sql_db.png  used on input line 371.
+Package pdftex.def Info: images//sql_db.png  used on input line 370.
 (pdftex.def)             Requested size: 470.7576pt x 271.26277pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 372.
+(caption)                particular \caption on input line 371.
 See the caption package documentation for explanation.
 
 [6 <./images//sql_before.png> <./images//sql_after.png>]
 <images//xss_before.png, id=66, 1856.9375pt x 1058.95625pt>
 File: images//xss_before.png Graphic file (type png)
 <use images//xss_before.png>
-Package pdftex.def Info: images//xss_before.png  used on input line 380.
+Package pdftex.def Info: images//xss_before.png  used on input line 379.
 (pdftex.def)             Requested size: 464.23325pt x 264.73842pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 381.
+(caption)                particular \caption on input line 380.
 See the caption package documentation for explanation.
 
 [7 <./images//sql_db.png> <./images//xss_before.png>]
 <images//xss_after.png, id=75, 1856.9375pt x 1058.95625pt>
 File: images//xss_after.png Graphic file (type png)
 <use images//xss_after.png>
-Package pdftex.def Info: images//xss_after.png  used on input line 394.
+Package pdftex.def Info: images//xss_after.png  used on input line 393.
 (pdftex.def)             Requested size: 464.23325pt x 264.73842pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 395.
+(caption)                particular \caption on input line 394.
 See the caption package documentation for explanation.
 
 <images//xss_affect.png, id=76, 1856.9375pt x 1058.95625pt>
 File: images//xss_affect.png Graphic file (type png)
 <use images//xss_affect.png>
-Package pdftex.def Info: images//xss_affect.png  used on input line 400.
+Package pdftex.def Info: images//xss_affect.png  used on input line 399.
 (pdftex.def)             Requested size: 464.23325pt x 264.73842pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 401.
+(caption)                particular \caption on input line 400.
 See the caption package documentation for explanation.
 
 [8 <./images//xss_after.png> <./images//xss_affect.png>]
 <images//xss_prevent.png, id=85, 1856.9375pt x 1058.95625pt>
 File: images//xss_prevent.png Graphic file (type png)
 <use images//xss_prevent.png>
-Package pdftex.def Info: images//xss_prevent.png  used on input line 407.
+Package pdftex.def Info: images//xss_prevent.png  used on input line 406.
 (pdftex.def)             Requested size: 464.23325pt x 264.73842pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 408.
+(caption)                particular \caption on input line 407.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--416
+Underfull \hbox (badness 10000) in paragraph at lines 410--415
 
  []
 
@@ -1086,7 +1086,7 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Here is how much of TeX's memory you used:
  22030 strings out of 481252
  433150 string characters out of 5915888
- 751642 words of memory out of 5000000
+ 751643 words of memory out of 5000000
  38536 multiletter control sequences out of 15000+600000
  408693 words of font info for 35 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1099,9 +1099,9 @@ pen/ec/ecbx1728.600pk> </home/imsotired/.texlive2020/texmf-var/fonts/pk/ljfour/
 jknappen/ec/ecrm1728.600pk> </home/imsotired/.texlive2020/texmf-var/fonts/pk/lj
 four/jknappen/ec/ecrm1440.600pk> </home/imsotired/.texlive2020/texmf-var/fonts/
 pk/ljfour/jknappen/ec/ecbx1440.600pk>
-Output written on report.pdf (10 pages, 718063 bytes).
+Output written on report.pdf (10 pages, 718376 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
+ 342 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
  30 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
